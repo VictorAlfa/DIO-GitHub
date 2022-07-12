@@ -3,6 +3,7 @@ Link Markdown https://www.markdownguide.org/basic-syntax/
 
 Git bash [here]
 $ls
+$git clone
 $git status
 $git add .
 $git commit -m ""
