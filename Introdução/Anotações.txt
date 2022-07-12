@@ -1,0 +1,6 @@
+Link para download do Git https://git-scm.com/downloads
+Link Markdown https://www.markdownguide.org/basic-syntax/
+
+Git bash [here]
+$ls
+$git status
